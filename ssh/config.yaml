@@ -1,7 +1,7 @@
 ---
-version: 9.20.11
+version: 9.20.12
 slug: ssh
-name: Terminal & SSH (MINUS AUDIO)
+name: Terminal & SSH (MINUS AUDIO FROM miking7 REPOSITORY)
 description: Allow logging in remotely to Home Assistant using SSH
 url: https://github.com/home-assistant/addons/tree/master/ssh
 advanced: true
