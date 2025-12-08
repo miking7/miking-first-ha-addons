@@ -31,7 +31,7 @@ RUN \
     \
     && apk add --no-cache \
         ack=3.9.0-r0 \
-        alsa-plugins-pulse=1.2.12-r0 \
+        # alsa-plugins-pulse=1.2.12-r0 \
         alsa-utils=1.2.14-r0 \
         awake=1.0-r12 \
         bash-completion=2.16.0-r0 \
@@ -60,7 +60,7 @@ RUN \
         openssl=3.5.4-r0 \
         procps-ng=4.0.4-r3 \
         pwgen=2.08-r3 \
-        pulseaudio-utils=17.0-r5 \
+        # pulseaudio-utils=17.0-r5 \
         py3-pip=25.1.1-r0 \
         python3=3.12.12-r0 \
         rsync=3.4.1-r1 \
