@@ -1,7 +1,7 @@
 ---
 name: Advanced SSH & Web Terminal
 version: dev
-slug: ssh
+slug: ssh-community
 description: A supercharged SSH & Web Terminal access to your Home Assistant instance
 url: https://github.com/hassio-addons/addon-ssh
 startup: services
@@ -29,7 +29,7 @@ host_network: true
 uart: true
 usb: true
 gpio: true
-audio: true
+# audio: true
 apparmor: false
 host_dbus: true
 docker_api: true
